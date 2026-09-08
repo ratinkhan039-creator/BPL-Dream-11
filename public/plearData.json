@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "playername": "Virat Kohli",
+        "playercountry": "India",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 2,
+        "playername": "Rohit Sharma",
+        "playercountry": "India",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm off break",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 3,
+        "playername": "Jasprit Bumrah",
+        "playercountry": "India",
+        "role": "Bowler",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 4,
+        "playername": "Ravindra Jadeja",
+        "playercountry": "India",
+        "role": "All-rounder",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Slow left-arm orthodox",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 5,
+        "playername": "Shubman Gill",
+        "playercountry": "India",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm off break",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 6,
+        "playername": "Babar Azam",
+        "playercountry": "Pakistan",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm off break",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 7,
+        "playername": "Shaheen Afridi",
+        "playercountry": "Pakistan",
+        "role": "Bowler",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm fast",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 8,
+        "playername": "Mohammad Rizwan",
+        "playercountry": "Pakistan",
+        "role": "Wicketkeeper Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 9,
+        "playername": "Shakib Al Hasan",
+        "playercountry": "Bangladesh",
+        "role": "All-rounder",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Slow left-arm orthodox",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 10,
+        "playername": "Mustafizur Rahman",
+        "playercountry": "Bangladesh",
+        "role": "Bowler",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm medium-fast",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 11,
+        "playername": "Mushfiqur Rahim",
+        "playercountry": "Bangladesh",
+        "role": "Wicketkeeper Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm off break",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 12,
+        "playername": "Ben Stokes",
+        "playercountry": "England",
+        "role": "All-rounder",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm fast-medium",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 13,
+        "playername": "Jos Buttler",
+        "playercountry": "England",
+        "role": "Wicketkeeper Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 14,
+        "playername": "Joe Root",
+        "playercountry": "England",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm off break",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 15,
+        "playername": "Jofra Archer",
+        "playercountry": "England",
+        "role": "Bowler",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 16,
+        "playername": "Pat Cummins",
+        "playercountry": "Australia",
+        "role": "Bowler",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 17,
+        "playername": "Steve Smith",
+        "playercountry": "Australia",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm leg break",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 18,
+        "playername": "Glenn Maxwell",
+        "playercountry": "Australia",
+        "role": "All-rounder",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm off break",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 19,
+        "playername": "Mitchell Starc",
+        "playercountry": "Australia",
+        "role": "Bowler",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm fast",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    },
+    {
+        "id": 20,
+        "playername": "Travis Head",
+        "playercountry": "Australia",
+        "role": "Batsman",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm off break",
+        "price": 500,
+        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+    }
+]
