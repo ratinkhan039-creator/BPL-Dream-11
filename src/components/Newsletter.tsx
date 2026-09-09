@@ -1,13 +1,14 @@
 const Newsletter = () => {
     return (
-        <section className="relative mx-auto container px-5 sm:px-10">
-
+        <section className="relative">
+            <div className="sm:h-52 h-65 w-full"></div>
+            <div className="absolute top-0 bottom-0 right-0 left-0 px-5">
             {/* Dark Outer Container */}
-            <div className="rounded-[30px] border-2 border-gray-400 p-3">
+            <div className=" rounded-[30px] border-2 border-gray-400 p-3 container mx-auto">
 
                 {/* Newsletter Card */}
                 <div
-                    className=" relative overflow-hidden rounded-[28px] border border-gray-200 bg-white px-6 py-25 text-center sm:px-10">
+                    className=" relative overflow-hidden rounded-[28px] border border-gray-200 bg-white px-6 py-25 text-center sm:px-10 h-full">
                     {/* Blue Glow */}
                     <div
                         className=" absolute -bottom-32 -left-20 h-80 w-80 rounded-full bg-cyan-300/50 blur-[80px] ">
@@ -37,6 +38,10 @@ const Newsletter = () => {
                         </form>
                     </div>
                 </div>
+            </div>
+            </div>
+            <div className='sm:h-52 h-65 bg-[#050817] w-full'>
+
             </div>
         </section>
     );

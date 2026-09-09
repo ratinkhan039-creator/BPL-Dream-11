@@ -1,34 +1,20 @@
-import { Suspense, useState } from 'react';
-import { Hero } from './components/Hero'
-import Navbar from './components/Navber'
-import Plears from './components/Plears/Plears';
-import type { IPlearType } from './types/PlearType';
-import Footer from './components/Footer';
-import Newsletter from './components/Newsletter';
+import { BrowserRouter, Route, Routes } from "react-router-dom"
+import Home from "./pages/Home"
+import FixturesPage from "./pages/Fixtrue"
+import { useState } from "react"
+import TeamsPage from "./pages/Teams"
 
 function App() {
-  const plearData = async (): Promise<IPlearType[]> => {
-    const response = await fetch('/plearData.json');
-    const data = await response.json();
-    return data;
-  }
   const [coin, setCoin] = useState(2000)
   return (
     <>
-      <div className='relative'>
-        <Navbar coin={coin} />
-        <Hero />
-        <Suspense fallback={<p>Loasing....</p>}>
-          <Plears plearsData={plearData()} coin={coin} setCoin={setCoin} />
-        </Suspense>
-        <div className="absolute left-0 right-0 bottom-0">
-          <Newsletter />
-        </div>
-        <div className='sm:h-52 h-65 bg-[#050817]'>
-
-        </div>
-      </div>
-      <Footer />
+    <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Home coin={coin} setCoin={setCoin}/>} />
+      <Route path="/fixture" element={<FixturesPage coin={coin} />} />
+      <Route path="/teams" element={<TeamsPage coin={coin} />} />
+    </Routes>
+    </BrowserRouter>
     </>
   )
 }
