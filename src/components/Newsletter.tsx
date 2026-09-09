@@ -1,6 +1,6 @@
 const Newsletter = () => {
     return (
-        <section className="relative mx-auto container px-10">
+        <section className="relative mx-auto container px-5 sm:px-10">
 
             {/* Dark Outer Container */}
             <div className="rounded-[30px] border-2 border-gray-400 p-3">
@@ -33,7 +33,7 @@ const Newsletter = () => {
                             <input
                                 type="email"
                                 placeholder="Enter your email"
-                                className="h-16 w-full rounded-2xl border border-gray-200 bg-white px-8 text-lg text-gray-700 outline-none placeholder:text-gray-400 focus:border-gray-400 sm:w-110" /><button type="submit" className="h-16 rounded-2xl px-8 text-lg font-bold text-black bg-gradient-to-r from-pink-400 via-orange-300 to-yellow-400 transition hover:scale-105">Subscribe</button>
+                                className="h-16 w-full rounded-2xl border border-gray-200 bg-white px-8 text-lg text-gray-700 outline-none placeholder:text-gray-400 focus:border-gray-400 sm:w-110" /><button type="submit" className="h-16 rounded-2xl px-8 text-lg font-bold text-black bg-linear-to-r from-pink-400 via-orange-300 to-yellow-400 transition hover:scale-105">Subscribe</button>
                         </form>
                     </div>
                 </div>

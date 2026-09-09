@@ -7,7 +7,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm medium",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virat%20kohli.jpg"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm off break",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rohitsharma.jpg"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm fast",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jasprit%20Bumrah.jpg"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Slow left-arm orthodox",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ravindra%20Jadeja%20in%20PMO%20New%20Delhi.jpg"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm off break",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shubman%20Gill.jpg"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm off break",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Babar%20Azam.png"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Left-arm fast",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaheen%20Afridi.jpg"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm medium",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Rizwan.png"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Slow left-arm orthodox",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shakib%20al%20hasan%201.jpg"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Left-arm medium-fast",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mustafizur%20Rahman%20%282%29.jpg"
     },
     {
         "id": 11,
@@ -107,7 +107,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm off break",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mushfiqur%20Rahim%202024%20%28cropped%29.jpg"
     },
     {
         "id": 12,
@@ -117,7 +117,7 @@
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Right-arm fast-medium",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BEN%20STOKES%20%2811704837023%29%20%28cropped%29.jpg"
     },
     {
         "id": 13,
@@ -127,7 +127,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm medium",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%20buttler.JPG"
     },
     {
         "id": 14,
@@ -137,7 +137,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm off break",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe%20root.jpg"
     },
     {
         "id": 15,
@@ -147,7 +147,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm fast",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jofra%20Archer%20%283%29.jpg"
     },
     {
         "id": 16,
@@ -157,7 +157,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm fast",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Cummins.jpg"
     },
     {
         "id": 17,
@@ -167,7 +167,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm leg break",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Smith.jpg"
     },
     {
         "id": 18,
@@ -177,7 +177,7 @@
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm off break",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Glen%20Maxwell%202026%20%28cropped%29.jpg"
     },
     {
         "id": 19,
@@ -187,7 +187,7 @@
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Left-arm fast",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mitchell%20Starc.jpg"
     },
     {
         "id": 20,
@@ -197,6 +197,6 @@
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Right-arm off break",
         "price": 500,
-        "image": "https://resources.ecb.co.uk/player-photos/test/480x480/1542.png"
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Head%20The%20Test%20clip.jpg"
     }
 ]

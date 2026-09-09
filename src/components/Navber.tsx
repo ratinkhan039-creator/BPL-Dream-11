@@ -10,7 +10,7 @@ const Navbar = ({coin}:{coin:number}) => {
                     <img
                         src={logo}
                         alt="Cricket Logo"
-                        className="sm:h-24 h-13 w-auto object-contain"
+                        className="md:h-24 h-11 w-auto object-contain"
                     />
                 </div>
 
@@ -58,14 +58,13 @@ const Navbar = ({coin}:{coin:number}) => {
 
                     {/* Coin Button */}
                     <button
-                        className="flex sm:h-16 h-12 items-center gap-3 rounded-2xl border border-gray-200
-                        bg-white sm:px-6 px-4 text-[20px] font-semibold text-gray-900
+                        className="flex md:h-16 h-10 items-center gap-3 rounded-2xl border border-gray-200
+                        bg-white md:px-6 px-3 md:text-[20px] font-semibold text-gray-900
                         shadow-sm transition hover:shadow-md md:w-46">
                         <span>{coin} Coin</span>
-
                         {/* Coin */}
                         <span
-                            className="flex h-7 w-7 items-center justify-center rounded-full
+                            className="flex md:h-7 md:w-7 h-5 w-5 items-center justify-center rounded-full
                             border-2 border-yellow-500 bg-yellow-400 text-sm">
                         </span>
                     </button>

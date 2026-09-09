@@ -28,7 +28,7 @@ export default function SelectedPlear({ selectedPlears, setSelectedPlears, coin,
                 }
             </div>
             <div className="border-2 border-black py-1.5 px-1.5 rounded-2xl w-fit">
-                <button className="btn bg-[#d4ff00] font-bold py-1.5 px-3 rounded-xl hover: cursor-pointer" onClick={() => setButtonType('available')}>Add More Player</button>
+                <button className="btn bg-linear-to-r from-pink-400 via-orange-300 to-yellow-400 transition hover:scale-105 font-bold py-1.5 px-3 rounded-xl hover: cursor-pointer" onClick={() => setButtonType('available')}>Add More Player</button>
             </div>
         </>
     )

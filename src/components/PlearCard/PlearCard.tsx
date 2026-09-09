@@ -104,7 +104,7 @@ const PlaerCard = ({ plear, selectedPlears, setSelectedPlears, coin, setCoin }: 
                         </p>
                     </div>
 
-                    <button onClick={handalButton} className="rounded-lg bg-gray-200 px-5 py-2.5 font-medium text-black transition hover:bg-linear-to-r from-pink-400 via-orange-300 to-yellow-400">
+                    <button onClick={handalButton} disabled={isButton} className="rounded-lg bg-gray-200 px-5 py-2.5 font-medium text-black transition hover:bg-linear-to-r from-pink-400 via-orange-300 to-yellow-400">
                         {isButton ? `Player Selected` : `Choose Player`}
                     </button>
                 </div>

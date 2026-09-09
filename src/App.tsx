@@ -24,7 +24,7 @@ function App() {
         <div className="absolute left-0 right-0 bottom-0">
           <Newsletter />
         </div>
-        <div className='h-52 bg-[#050817]'>
+        <div className='sm:h-52 h-65 bg-[#050817]'>
 
         </div>
       </div>
