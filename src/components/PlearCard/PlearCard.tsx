@@ -48,17 +48,12 @@ const PlaerCard = ({ plear, selectedPlears, setSelectedPlears, coin, setCoin }: 
         <div className="w-full overflow-hidden rounded-2xl bg-white shadow-xl transition duration-300 hover:-translate-y-2 hover:shadow-2xl">
 
             {/* Player Image */}
-            <div className="relative h-72 overflow-hidden bg-gray-200">
+            <div className=" h-72 overflow-hidden bg-gray-200">
                 <img
                     src={plear.image}
                     alt={plear.playername}
                     className="h-full w-full object-cover transition duration-500 hover:scale-110"
                 />
-
-                {/* Role Badge */}
-                <span className="absolute right-4 top-4 rounded-full bg-[#d4ff00] px-4 py-1 text-sm font-semibold text-black">
-                    {plear.role}
-                </span>
             </div>
 
             {/* Card Content */}
@@ -66,9 +61,15 @@ const PlaerCard = ({ plear, selectedPlears, setSelectedPlears, coin, setCoin }: 
 
                 {/* Name & Country */}
                 <div className="mb-4">
-                    <h2 className="text-2xl font-bold text-gray-900">
-                        {plear.playername}
-                    </h2>
+                    <div className="flex items-center justify-between">
+                        <h2 className="text-2xl font-bold text-gray-900">
+                            {plear.playername}
+                        </h2>
+                        {/* Role Badge */}
+                        <span className="rounded-full w-43 py-1 text-sm font-semibold text-black text-end">
+                            {plear.role}
+                        </span>
+                    </div>
 
                     <p className="mt-1 text-sm text-gray-500">
                         🌍 {plear.playercountry}
@@ -103,7 +104,7 @@ const PlaerCard = ({ plear, selectedPlears, setSelectedPlears, coin, setCoin }: 
                         </p>
                     </div>
 
-                    <button onClick={handalButton} className="rounded-lg bg-gray-200 px-5 py-2.5 font-medium text-black transition hover:bg-[#d4ff00]">
+                    <button onClick={handalButton} className="rounded-lg bg-gray-200 px-5 py-2.5 font-medium text-black transition hover:bg-linear-to-r from-pink-400 via-orange-300 to-yellow-400">
                         {isButton ? `Player Selected` : `Choose Player`}
                     </button>
                 </div>

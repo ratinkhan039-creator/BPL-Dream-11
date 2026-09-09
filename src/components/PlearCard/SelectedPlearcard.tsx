@@ -29,8 +29,8 @@ function SelectedPlayerCard({ plear, handaleDeleteButton }: SelectedPlayerCardPr
                     </div>
 
                     {/* Delete Button */}
-                    <button className="text-red-500 transition hover:text-red-600" onClick={() => handaleDeleteButton(plear)}>
-                        <FaRegTrashAlt />
+                    <button className="btn h-15 w-15 text-red-500 transition hover:text-red-600" onClick={() => handaleDeleteButton(plear)}>
+                        <FaRegTrashAlt className="h-15" />
                     </button>
 
                 </div>

@@ -12,7 +12,7 @@ interface AvailablePlearsProps {
 export default function AvailablePlears({ plears, coin, setCoin, selectedPlears, setSelectedPlears }: AvailablePlearsProps) {
   return (
     <>
-      <div className=" grid grid-cols-3 gap-7">
+      <div className=" grid md:grid-cols-3 gap-7">
         {plears.map((plear) => (
           <PlaerCard key={plear.id} plear={plear} selectedPlears={selectedPlears} setSelectedPlears={setSelectedPlears} coin={coin} setCoin={setCoin} />
         ))}
