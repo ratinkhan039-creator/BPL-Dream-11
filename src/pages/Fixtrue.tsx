@@ -87,10 +87,10 @@ const FixturesPage = ({coin}:FixtrueProps) => {
                         <div className="inline-flex items-center justify-center w-23 h-23 rounded-2xl bg-amber-400/10 border border-amber-400/20 text-2xl mb-1">
                             <FaTrophy className='h-17 w-17 text-yellow-400' />
                         </div>
-                        <h1 className="text-2xl sm:text-6xl font-extrabold text-white tracking-tight">
+                        <h1 className="text-xl sm:text-6xl text-center font-extrabold text-white tracking-tight px-5">
                             BPL 2025 Match Schedule & Fixtures
                         </h1>
-                        <p className="text-slate-400 text-center text-2xl">
+                        <p className=" sm:text-gray-400 text-gray-200 text-center sm:text-2xl px-8">
                             Track upcoming match timings, venues, and plan your Dream 11 lineup accordingly.
                         </p>
                     </div>
